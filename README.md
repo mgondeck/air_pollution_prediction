@@ -1,4 +1,4 @@
-# Template Repo for ML Project
+# ZINDI AIR POLLUTION CHALLENGE 
 
 This template repo will give you a good starting point for your second project. Besides the files used for creating a virtual environment, you will find a simple example of how to build a simple model in a python script. This is maybe the simplest way to do it. We train a simple model in the jupyter notebook, where we select only some features and do minimal cleaning. The output is then stored in simple python scripts.
 
